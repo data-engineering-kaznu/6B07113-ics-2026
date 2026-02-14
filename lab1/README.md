@@ -1,0 +1,1 @@
+# Lab1 - Supervised Learning## Classification TaskDataset: Iris  Model: KNN  Preprocessing: StandardScaler  Validation: Train/Test Split + Cross-Validation  Metrics:- Accuracy- Precision- Recall- F1-scoreAuthor: Temirlan Tazhimuratov
