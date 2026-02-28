@@ -43,10 +43,10 @@ plt.xlabel("Уровень важности")
 plt.ylabel("Признаки")
 plt.show()
 
-# Сохраняем результаты в Output_lab2.csv
+# Сохраняем результаты в Output_lab3.csv
 output_df = pd.DataFrame({
     'Real': [iris.target_names[i] for i in y_test],
     'RF_Pred': [iris.target_names[i] for i in rf_pred],
     'XGB_Pred': [iris.target_names[i] for i in xgb_pred]
 })
-output_df.to_csv('Output_lab2.csv', index=False)
+output_df.to_csv('Output_lab3.csv', index=False)
