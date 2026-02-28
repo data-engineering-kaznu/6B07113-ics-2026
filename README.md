@@ -1,1 +1,14 @@
-#HW
+# lab1 
+## task
+Dataset: Iris  
+Model: KNN  
+Preprocessing: StandardScaler  
+Validation: Train/Test Split + Cross-Validation  
+
+Metrics:
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+Author: Abdeyev Nuraly
