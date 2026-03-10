@@ -1,0 +1,13 @@
+# Настройки IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+venv/
+env/
+.env
