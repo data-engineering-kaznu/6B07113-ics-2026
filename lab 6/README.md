@@ -35,4 +35,4 @@
 2. Скачайте файл с кодом (например, `main.py`).
 3. Запустите скрипт:
    ```bash
-   python main.py
+   python lab 6.py
