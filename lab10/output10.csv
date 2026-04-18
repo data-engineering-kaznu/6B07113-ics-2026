@@ -1,0 +1,9 @@
+record_type,name,observations,best_states,probability,visualization
+transition,Sunny->Sunny,,,0.70,##############
+transition,Sunny->Rainy,,,0.30,######
+transition,Rainy->Sunny,,,0.40,########
+transition,Rainy->Rainy,,,0.60,############
+sequence_result,seq_1,walk shop clean,Sunny Rainy Rainy,0.01296000,
+sequence_result,seq_2,shop walk walk,Sunny Sunny Sunny,0.03175200,
+sequence_result,seq_3,clean clean shop,Rainy Rainy Rainy,0.01440000,
+sequence_result,seq_4,walk clean shop walk,Sunny Rainy Rainy Sunny,0.00311040,

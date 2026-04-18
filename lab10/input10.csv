@@ -1,0 +1,5 @@
+sequence_id,observations
+seq_1,walk shop clean
+seq_2,shop walk walk
+seq_3,clean clean shop
+seq_4,walk clean shop walk
