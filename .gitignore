@@ -6,3 +6,5 @@
   ~$*.docx
 lab6/.venv/                                                                                                                                             
   lab6/__pycache__/
+*/__pycache__/                                                                                                                                          
+  **/__pycache__/
