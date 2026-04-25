@@ -10,3 +10,6 @@
 ## Laboratory work №8 -- done
 ## Laboratory work №11 -- done
 ## Laboratory work №12 -- done
+## Laboratory work №13 -- done
+## Laboratory work №14 -- done
+## Laboratory work №15 -- done
