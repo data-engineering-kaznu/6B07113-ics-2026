@@ -1,0 +1,11 @@
+.DS_Store                                                                                                                                               
+  **/.DS_Store
+  __pycache__/                                                                                                                                                  
+  **/__pycache__/ 
+  .venv/                                                                                                                                                        
+  ~$*.docx
+lab6/.venv/                                                                                                                                             
+  lab6/__pycache__/
+*/__pycache__/                                                                                                                                          
+  **/__pycache__/
+*.docx
